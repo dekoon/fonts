@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/* CSS Document */
+/*SNS BRAND LODO WEBFONT */
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 100;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Thin.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Thin.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Thin.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Thin.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 200;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraLight.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraLight.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Light.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Light.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Light.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Light.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Regular.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Medium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Medium.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Medium.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 600;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Bold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Bold.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-ExtraBold.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 800;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Heavy.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Heavy.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Heavy.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Heavy.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SCoreDream';
+    font-weight: 900;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Black.eot');
+    src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Black.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Black.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Black.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/dekoon/fonts/SCoreDream-Black.ttf') format("truetype");
+    font-display: swap;
+}
