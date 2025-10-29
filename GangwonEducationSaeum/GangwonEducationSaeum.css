@@ -8,6 +8,7 @@ https://dekoon.github.io/fonts/GangwonEducationSaeum/GangwonEducationSaeum.css
   font-family: 'GangwonEducationSaeum';
   font-weight: 400; /* 기본 weight */
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/GangwonEducationSaeum/GangwonEducationSaeum.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/GangwonEducationSaeum/GangwonEducationSaeum.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/dekoon/fonts/GangwonEducationSaeum/GangwonEducationSaeum.woff') format('woff');
   font-display: swap;
 }
