@@ -1,0 +1,2 @@
+웹폰트:강원교육새음체
+GangwonEducationSaeum
