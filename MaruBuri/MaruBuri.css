@@ -1,14 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
-/*
-https://dekoon.github.io/fonts/MaruBuri/MaruBuri.css
-*/
 
 @font-face {
   font-family: 'MaruBuri';
   font-weight: 200;
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-ExtraLight.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-ExtraLight.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-ExtraLight.woff') format('woff');
   font-display: swap;
 }
 
@@ -16,7 +14,8 @@ https://dekoon.github.io/fonts/MaruBuri/MaruBuri.css
   font-family: 'MaruBuri';
   font-weight: 300;
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Light.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Light.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Light.woff') format('woff');
   font-display: swap;
 }
 
@@ -24,7 +23,8 @@ https://dekoon.github.io/fonts/MaruBuri/MaruBuri.css
   font-family: 'MaruBuri';
   font-weight: 400;
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Regular.woff') format('woff');
   font-display: swap;
 }
 
@@ -32,7 +32,8 @@ https://dekoon.github.io/fonts/MaruBuri/MaruBuri.css
   font-family: 'MaruBuri';
   font-weight: 600;
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-SemiBold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-SemiBold.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-SemiBold.woff') format('woff');
   font-display: swap;
 }
 
@@ -40,6 +41,7 @@ https://dekoon.github.io/fonts/MaruBuri/MaruBuri.css
   font-family: 'MaruBuri';
   font-weight: 700;
   font-style: normal;
-  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Bold.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/dekoon/fonts/MaruBuri/MaruBuri-Bold.woff') format('woff');
   font-display: swap;
 }
