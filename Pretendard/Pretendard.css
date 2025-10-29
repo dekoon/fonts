@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 /*
-https://dekoon.github.io/fonts/Pretendard.css
+https://dekoon.github.io/fonts/Pretendard/Pretendard.css
 */
 @font-face {
     font-family: 'Pretendard';
@@ -102,6 +102,7 @@ https://dekoon.github.io/fonts/Pretendard.css
         url('https://cdn.jsdelivr.net/gh/dekoon/fonts/Pretendard/Pretendard-Black.ttf') format("truetype");
     font-display: swap;
 }
+
 
 
 
